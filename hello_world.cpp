@@ -24,5 +24,10 @@ int main()
 			crushCar(car& target);
 	}
 
+// even more crazy changes
+	
+	bool DoesMainRun? = false;
+
+
 	return 0;
 }
